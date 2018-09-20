@@ -1,9 +1,11 @@
-package com.cg.bean;
+package com.cg.test;
 
 
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
+
+import com.cg.bean.Calculator;
 
 public class TestCalculator
 {
